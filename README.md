@@ -13,4 +13,4 @@ Instructions for running the program:Execute "python url_shortener.py" command i
 
 Url shortener window will open
 
-![image](https://user-images.githubusercontent.com/126230521/235342088-3e334537-e77f-497e-bc17-e897114a8d6e.png)
+![image](https://user-images.githubusercontent.com/126230521/235342208-30be773c-28cf-454c-944f-a62e9026c9be.png)
